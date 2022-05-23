@@ -1,4 +1,4 @@
-# Image-Processing-AI-Repository
+# AI Image Processing Searcher
 
 An image repository capable of processing AI search requests for targets in images using OpenCV, NumPy, and Python.
 
